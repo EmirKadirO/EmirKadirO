@@ -2,7 +2,7 @@
 
 I'm a 9th-grade student who is curious about coding and learning new technologies. Currently, I'm focusing on **Python** and **Web Development**.
 
-In my free time, I enjoy developing personal projects, listening to music, and watching shows.
+In my free time, I enjoy developing personal projects and listening to music.
 
 ---
 
