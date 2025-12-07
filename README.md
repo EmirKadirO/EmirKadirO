@@ -29,7 +29,7 @@ I'm currently interested in these technologies:
 
 ### 📬 Connect with me
 
-<a href="https://www.instagram.com/virawastaken/" target="_blank">
+<a href="https://www.instagram.com/kadir.vra/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
