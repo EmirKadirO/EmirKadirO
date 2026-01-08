@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Kadir.
+### Hi there! I'm Kadir.
 
 I'm a 9th-grade student who is curious about coding and learning new technologies. Currently, I'm focusing on **Python** and **Web Development**.
 
@@ -6,12 +6,12 @@ In my free time, I enjoy developing personal projects and listening to music.
 
 ---
 
-### 💻 What I'm Working On
+### What I'm Working On
 
 I'm currently interested in these technologies:
 
-* 🐍 **Python**
-* 🌐 **Web Development** (HTML, CSS, JavaScript)
+*  **Python**
+*  **Web Development** (HTML, CSS, JavaScript)
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
