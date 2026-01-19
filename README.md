@@ -32,3 +32,5 @@ I'm currently interested in these technologies:
 </a>
 
 ---
+
+**"I don't know if I'm worth all this, Steve."**
