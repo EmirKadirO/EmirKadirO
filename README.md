@@ -1,6 +1,6 @@
 ### Hi there! I'm Kadir.
 
-I'm a 9th-grade student who is curious about coding and learning new technologies.
+I'm a 10th-grade student who is curious about coding and learning new technologies.
 
 ### 📬 Connect with me
 
