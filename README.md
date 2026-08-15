@@ -2,6 +2,10 @@
 
 I'm a 10th-grade student who is curious about coding and learning new technologies.
 
+### 🏆 Achievements
+
+* 🚀 **Finalist** — *2026 TEKNOFEST Professional Skills Competition*, Smart Factory Systems Programming Category (High School Level)
+
 ### 📬 Connect with me
 
 <a href="mailto:emirkadirozengin@gmail.com" target="_blank">
