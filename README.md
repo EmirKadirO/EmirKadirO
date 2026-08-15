@@ -8,7 +8,7 @@ I'm a 10th-grade student who is curious about coding and learning new technologi
 
 ### 📬 Connect with me
 
-<a href="mailto:emirkadirozengin@gmail.com" target="_blank">
+<a href="mailto:iletisim@teamoverclock.com.tr" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://www.instagram.com/kadir.vra/" target="_blank">
