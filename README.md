@@ -5,6 +5,7 @@ I'm a 10th-grade student who is curious about coding and learning new technologi
 ### 🏆 Achievements
 
 * 🚀 **Finalist** — *2026 TEKNOFEST Professional Skills Competition*, Smart Factory Systems Programming Category (High School Level)
+* 🚀 **Finalist** — *2026 TEKNOFEST Competition On Technological Applications For Combating Addiction*
 
 ### 📬 Connect with me
 
